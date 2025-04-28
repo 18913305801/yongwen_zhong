@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cppworkapsce\\WORK1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A916D10E-77FD-45FE-9DFC-F0C00E98808E}|WORK1\\WORK1.vcxproj|D:\\cppworkapsce\\WORK1\\WORK1\\WORK1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A916D10E-77FD-45FE-9DFC-F0C00E98808E}|WORK1\\WORK1.vcxproj|solutionrelative:WORK1\\WORK1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WORK1.cpp",
+              "DocumentMoniker": "D:\\cppworkapsce\\WORK1\\WORK1\\WORK1.cpp",
+              "RelativeDocumentMoniker": "WORK1\\WORK1.cpp",
+              "ToolTip": "D:\\cppworkapsce\\WORK1\\WORK1\\WORK1.cpp",
+              "RelativeToolTip": "WORK1\\WORK1.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T01:53:09.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
